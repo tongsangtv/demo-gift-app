@@ -1,0 +1,6 @@
+{
+  "name": "ShopeeGift AI",
+  "description": "Trợ lý AI gợi ý quà tặng Shopee theo sở thích, tính cách, ngân sách và theo dõi ngày sinh nhật, dịp đặc biệt với thông báo UnifiedPush, Email, Zalo.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
